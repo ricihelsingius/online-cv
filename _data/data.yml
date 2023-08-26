@@ -61,37 +61,24 @@ career-profile:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      These are projects I have worked on during my free time.
     assignments:
-      - title: Velocity
+      - title: Amazon EDA
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "An Explatory data analysis on a Amazon E-sales dataset"
 
       - title: DevStudio
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 
 education:
     title: Education
     info:
-      - degree: MSc in Finance
+      - degree: BSc in Finance
         university: Hanken School of Economics
-        time: 2021 - 2026
+        time: 2021 - 2024
         details: |
           Bachelors in Finance (major) and Information Systems (minor), expected graduation in 2024
           "Relevant Coursework: Corporate Finance, Pricing of Financial Assets and Securities, Capital Budgeting, Business Intelligence for Value Creation.
@@ -109,8 +96,8 @@ experiences:
             - Developed a customer behavior dashboard in Metabase using SQL, bolstering sales efficiency and identifying the Ideal Customer Profile (ICP).
             - Led data analysis to predict customer behavior, providing strategic guidance to senior leadership.
             - Executed meticulous credit risk assessments and due diligence on potential clients.
-      - role: Operations Assitant
-        time: 2022 - 08/2023
+      - role: Operations Assistant
+        time: 11/2022 - 08/2023
         company: Zevoy Aktiebolag, Espoo, Finland
         details: |
             - Collected and processed essential data for credit decisions, including financial statements and company history, facilitating comprehensive credit assessments.
