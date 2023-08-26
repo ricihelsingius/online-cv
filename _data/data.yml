@@ -61,70 +61,34 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: MSc in Finance
+        university: Hanken School of Economics
+        time: 2021 - 2026
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Bachelors in Finance (major) and Information Systems (minor), expected graduation in 2024
+          "Relevant Coursework: Corporate Finance, Pricing of Financial Assets and Securities, Capital Budgeting, Business Intelligence for Value Creation.
+            - Elected Student Council 2022-2023
+            - Tutor Programme 2022
 
 experiences:
-    title: Experiences
+    title: Professional Experience
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Junior Analyst
+        time: 08/2023 - Present
+        company: Zevoy Aktiebolag, Espoo, Finland
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+            - Managed and monitored a portfolio of over €30 million in credit, ensuring adherence to the company's risk protocols.
+            - Developed a customer behavior dashboard in Metabase using SQL, bolstering sales efficiency and identifying the Ideal Customer Profile (ICP).
+            - Led data analysis to predict customer behavior, providing strategic guidance to senior leadership.
+            - Executed meticulous credit risk assessments and due diligence on potential clients.
+      - role: Operations Assitant
+        time: 2022 - 08/2023
+        company: Zevoy Aktiebolag, Espoo, Finland
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
+            - Collected and processed essential data for credit decisions, including financial statements and company history, facilitating comprehensive credit assessments.
+            - Monitored customer portfolio with €30 million in credit.
+            - Developed an automated Excel dashboard using Python, enhancing real-time monitoring of customer portfolio and payment behaviors.
+            - Supported various teams with tasks like prospect hunting for the sales team.
 certifications:
       title: Certifications
       list:
